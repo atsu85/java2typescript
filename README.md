@@ -108,6 +108,10 @@ Don't forget to import the generated file **People.js** in the final HTML page.
 
 ### Installation
 
+<iframe src="https://www.jitpack.io/v/com.github.raphaeljolivet.java2typescript/java2typescript-maven-plugin.html"
+width="100%" height="400" frameBorder="0">
+</iframe>
+
 To install the library using Maven add [JitPack](https://jitpack.io/) repository and java2typescript dependency:
 
 ```xml
